@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "ip": "^2.0.1"
+  },
+  "type": "module"
+}
