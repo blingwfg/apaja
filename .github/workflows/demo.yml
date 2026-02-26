@@ -2,7 +2,7 @@ name: push
 run-name: test demo push docker using workflows
 on: 
    push:
-    branches: [main]
+    branches: [main, dev]
    pull_request: 
     branches: [main] 
 
