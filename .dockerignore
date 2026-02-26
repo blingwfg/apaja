@@ -3,4 +3,4 @@ deployment.Dockerfile
 docker-compose.yaml
 main.js
 .gitignore
-main.js
+.dockerignore
