@@ -1,5 +1,5 @@
 name: push
-run-name: test demo push docker using workflows
+run-name: ${{ github.actor}} test demo push docker using workflows
 on: 
    push:
     branches: [main, dev]
