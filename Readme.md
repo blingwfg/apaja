@@ -3,6 +3,6 @@
 
 ```json
 {
-    name : bling
+    "name" : "bling"
 }
 ```
